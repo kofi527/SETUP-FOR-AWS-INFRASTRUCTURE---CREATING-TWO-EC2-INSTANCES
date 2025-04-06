@@ -28,6 +28,10 @@ CREATE TWO EC2 Instances to setup Jenkins and Tomcat on AWS
 ![4  choose the ubuntu image select the seerver 24 04 free tier](https://github.com/user-attachments/assets/de005b4e-d37c-4464-ad63-c8ac87b9035a)
 
 
+6.  click on create the key pair if you have not created one. This is very important as it will be very much needed during the connection of your instance
+   
+   ![5CLICK~1](https://github.com/user-attachments/assets/f07f82dc-2016-460d-b6af-088fd4d76280)
+
 
  
 
