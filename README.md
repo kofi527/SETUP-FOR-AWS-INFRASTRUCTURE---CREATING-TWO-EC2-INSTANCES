@@ -19,6 +19,9 @@ CREATE TWO EC2 Instances to setup Jenkins and Tomcat on AWS
 ![3GIVEA~1](https://github.com/user-attachments/assets/756c530c-794c-4f49-97c3-c1965ca5478f)
 
    
+3. label the required instance that will be created
+
+ ![3GIVEA~1](https://github.com/user-attachments/assets/f3f3a5d8-438e-4929-9cbc-60efeefa5a8d)
 
 
  
