@@ -23,6 +23,11 @@ CREATE TWO EC2 Instances to setup Jenkins and Tomcat on AWS
 
  ![3GIVEA~1](https://github.com/user-attachments/assets/f3f3a5d8-438e-4929-9cbc-60efeefa5a8d)
 
+ 4. choose the ubuntu free tier image for this project
+
+![4  choose the ubuntu image select the seerver 24 04 free tier](https://github.com/user-attachments/assets/de005b4e-d37c-4464-ad63-c8ac87b9035a)
+
+
 
  
 
