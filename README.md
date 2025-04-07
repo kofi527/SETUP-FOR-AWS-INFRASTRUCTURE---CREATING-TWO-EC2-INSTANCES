@@ -32,6 +32,9 @@ CREATE TWO EC2 Instances to setup Jenkins and Tomcat on AWS
    
    ![5CLICK~1](https://github.com/user-attachments/assets/f07f82dc-2016-460d-b6af-088fd4d76280)
 
+7. Under the network settings we edit our inbound and outbound rules
+
+   ![7  under network settings click edit and lets do the following](https://github.com/user-attachments/assets/d9291786-cd86-4af1-8ab2-4060e2778772)
 
  
 
