@@ -36,5 +36,8 @@ CREATE TWO EC2 Instances to setup Jenkins and Tomcat on AWS
 
    ![7  under network settings click edit and lets do the following](https://github.com/user-attachments/assets/d9291786-cd86-4af1-8ab2-4060e2778772)
 
- 
+8. Add an additional security group to allow access to your application
+
+   ![8SECUR~1](https://github.com/user-attachments/assets/be468402-f507-4bc8-99ec-e79fc62b50f8)
+
 
