@@ -40,4 +40,8 @@ CREATE TWO EC2 Instances to setup Jenkins and Tomcat on AWS
 
    ![8SECUR~1](https://github.com/user-attachments/assets/be468402-f507-4bc8-99ec-e79fc62b50f8)
 
+9. we add second security group and set our port range to 8080 which is a custom ip address
+
+    ![9WEADD~1](https://github.com/user-attachments/assets/3c96e047-cc01-413f-95c4-9e4a207089f3)
+
 
