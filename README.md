@@ -52,6 +52,10 @@ CREATE TWO EC2 Instances to setup Jenkins and Tomcat on AWS
 12. We set the storage space for our instance
 
    ![10  set the storage to 10 gigabytes](https://github.com/user-attachments/assets/c2546e42-f2c2-43cb-9628-903d5d9a90f3)
- 
+
+13. Visualizing the summary of the options before creating the instance.
+
+    ![11VISU~1](https://github.com/user-attachments/assets/1a2bb61e-1a43-414a-84fc-27cb08fd86af)
+
 
 
